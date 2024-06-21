@@ -1,0 +1,1 @@
+This project involves the analysis of historical sales data spanning from 2019 to 2021 for a Used Cars company. The dataset comprises 164,554 records across 22 columns, detailing various aspects related to vehicle sales and conditions.
